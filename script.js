@@ -1,0 +1,6 @@
+console.log(9090909)
+console.log(19090909)
+console.log(29090909)
+throw new Error('error')
+console.log(39090909)
+console.log(49090909)
